@@ -1,3 +1,6 @@
 .idea
 .ipynb_checkpoints
 .DS_Store
+ml_with_python_notes/cache
+lib/mglearn/__pycache__
+
